@@ -12,4 +12,5 @@ module.exports = {
     directory: './database/seeds'
   },
   ssl: true,
+  debug: true,
 };
